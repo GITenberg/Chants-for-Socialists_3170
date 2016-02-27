@@ -1,0 +1,28 @@
+_repo: Chants-for-Socialists_3170
+creator:
+  author:
+    agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+description: ''
+gutenberg_issued: '2002-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3170'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Socialism -- Poetry'
+tableOfContents: Chants for Socialists -- The Day is Coming -- The Voice of Toil --
+  No Master -- All for the Cause -- The March of the Workers -- Down Among the Dead
+  Men -- A Death Song -- May Day [1892] -- May Day, 1894 -- The Message of the March
+  Wind
+title: Chants for Socialists
+url: http://www.gutenberg.org/ebooks/3170
