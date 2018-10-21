@@ -1,5 +1,5 @@
 _repo: Chants-for-Socialists_3170
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'Socialism -- Poetry'
+- GITenberg
 tableOfContents: Chants for Socialists -- The Day is Coming -- The Voice of Toil --
   No Master -- All for the Cause -- The March of the Workers -- Down Among the Dead
   Men -- A Death Song -- May Day [1892] -- May Day, 1894 -- The Message of the March
